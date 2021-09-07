@@ -15,7 +15,7 @@ function getfibo(numeroEntrada){
     {
         alert("Por favor ingrese numeros iguales o mayores a 0");
     }
-
+/* este es el ciclo for*/
 
     for (i=2; i<numeroEntrada; i++)
     {
